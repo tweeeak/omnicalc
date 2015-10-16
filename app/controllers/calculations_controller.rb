@@ -10,7 +10,7 @@ class CalculationsController < ApplicationController
         # The special word the user input is in the string @special_word.
         # ================================================================================
 
-        # I don't know how but i messed all the alignment... tried to fix it...
+        # I don't know how but i messed all the alignment... tried to fix it....
 
         @character_count_with_spaces = @text.length.to_s
 
